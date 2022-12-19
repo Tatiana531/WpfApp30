@@ -1,0 +1,32 @@
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\bin\Debug\WpfApp30.exe.config
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\bin\Debug\WpfApp30.exe
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\bin\Debug\WpfApp30.pdb
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.csprojAssemblyReference.cache
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\MainWindow.g.cs
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\App.g.cs
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30_MarkupCompile.cache
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30_MarkupCompile.lref
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\App.baml
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\MainWindow.baml
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.g.resources
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.Properties.Resources.resources
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.csproj.GenerateResource.cache
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.csproj.CoreCompileInputs.cache
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.exe
+C:\Users\USER_SQL_2\source\repos\WpfApp30\WpfApp30\obj\Debug\WpfApp30.pdb
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\bin\Debug\WpfApp30.exe.config
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\bin\Debug\WpfApp30.exe
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\bin\Debug\WpfApp30.pdb
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\MainWindow.g.cs
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\App.g.cs
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30_MarkupCompile.cache
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30_MarkupCompile.lref
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\App.baml
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\MainWindow.baml
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.g.resources
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.Properties.Resources.resources
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.csproj.GenerateResource.cache
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.csproj.CoreCompileInputs.cache
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.exe
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.pdb
+D:\Практика 1111111111111111111111111111111111\Версия на 14.12.22\WpfApp30\obj\Debug\WpfApp30.csprojAssemblyReference.cache

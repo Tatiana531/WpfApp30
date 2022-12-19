@@ -1,0 +1,97 @@
+﻿<Window x:Class="WpfApp30.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp30"
+        mc:Ignorable="d"
+        Title="Лопушок" Height="450" Width="800" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="75*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="44*"/>
+        </Grid.RowDefinitions>
+        <TextBox ></TextBox>
+        <ComboBox Name="Sort" Grid.Column="1" SelectionChanged="Sort_SelectionChanged">
+            <ComboBoxItem Content="По наименованию, от А до Я"></ComboBoxItem>
+            <ComboBoxItem Content="По наименованию, от Я до А"></ComboBoxItem>
+            <ComboBoxItem Content="По возрастанию номера производственного цеха"></ComboBoxItem>
+            <ComboBoxItem Content="По убыванию номера производственного цеха"></ComboBoxItem>
+            <ComboBoxItem Content="По возрастанию минимальной стоимости для агента"></ComboBoxItem>
+            <ComboBoxItem Content="По убыванию минимальной стоимости для агента"></ComboBoxItem>
+        </ComboBox>
+        <ComboBox Grid.Column="2"></ComboBox>
+        <Button Grid.Row="1" Grid.ColumnSpan="3" HorizontalContentAlignment="Left">
+            <StackPanel Orientation="Horizontal" >
+                <Image Source="Image/picture.png" Margin="5"></Image>
+                <Viewbox>
+                    <StackPanel>
+                        <TextBlock Name="FirstType" Margin="5,5,5,0">Тип продукта | Наименование продукта</TextBlock>
+                        <TextBlock Name="FirstArticle" Margin="5,0,5,0">Артикул</TextBlock>
+                        <TextBlock Name="FirstMaterial">Материалы: материал1, материал2, материал3, материал4,..,МатериалN</TextBlock>
+                    </StackPanel>
+                </Viewbox>
+            </StackPanel>
+        </Button>
+        <Label Name="stoim" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="5">Стоимость</Label>
+        <Button Grid.Row="2" Grid.ColumnSpan="3" HorizontalContentAlignment="Left">
+            <StackPanel Orientation="Horizontal" >
+                <Image Source="Image/picture.png" Margin="5"></Image>
+                <Viewbox>
+                    <StackPanel>
+                        <TextBlock Name="SecondType" Margin="5,5,5,0">Тип продукта | Наименование продукта</TextBlock>
+                        <TextBlock Name="SecondArticle" Margin="5,0,5,0">Артикул</TextBlock>
+                        <TextBlock Name="SecondMaterial">Материалы: материал1, материал2, материал3, материал4,..,МатериалN</TextBlock>
+                    </StackPanel>
+                </Viewbox>
+            </StackPanel>
+        </Button>
+        <Label Name="stoim1" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="5">Стоимость</Label>
+        <Button Grid.Row="3" Grid.ColumnSpan="3" HorizontalContentAlignment="Left">
+            <StackPanel Orientation="Horizontal" >
+                <Image Source="Image/picture.png" Margin="5"></Image>
+                <Viewbox>
+                    <StackPanel>
+                        <TextBlock Name="ThirdType" Margin="5,5,5,0">Тип продукта | Наименование продукта</TextBlock>
+                        <TextBlock Name="ThirdArticle" Margin="5,0,5,0">Артикул</TextBlock>
+                        <TextBlock Name="ThirdMaterial">Материалы: материал1, материал2, материал3, материал4,..,МатериалN</TextBlock>
+                    </StackPanel>
+                </Viewbox>
+            </StackPanel>
+        </Button>
+        <Label Name="stoim2" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,5,5,0">Стоимость</Label>
+        <Button Grid.Row="4" Grid.ColumnSpan="3" HorizontalContentAlignment="Left">
+            <StackPanel Orientation="Horizontal" >
+                <Image Source="Image/picture.png" Margin="5"></Image>
+                <Viewbox >
+                    <StackPanel>
+                        <TextBlock Name="FourType" Margin="5,5,5,0">Тип продукта | Наименование продукта</TextBlock>
+                        <TextBlock Name="FourArticle" Margin="5,0,5,0">Артикул</TextBlock>
+                        <TextBlock Name="FourMaterial">Материалы: материал1, материал2, материал3, материал4,..,МатериалN</TextBlock>
+                    </StackPanel>
+                </Viewbox>
+            </StackPanel>
+        </Button>
+        
+            <Label Name="stoim3"  Margin="5" Grid.Row="4" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top">Стоимость</Label>
+      
+            <Viewbox Grid.Row="5" Grid.Column="2">
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="BackBtn" Content="&lt;" Width="20" Background="Transparent" BorderBrush="Transparent" Margin="1" Click="BackBtn_Click"></Button>
+            <Button Name="FirstBtn" Content="1" Width="20" Background="Transparent" BorderBrush="Transparent" Margin="1"></Button>
+            <Button Name="TwoBtn" Content="2" Width="20" Background="Transparent" BorderBrush="Transparent" Margin="1"></Button>
+            <Button Name="ThreeBtn" Content="3" Width="20" Background="Transparent" BorderBrush="Transparent" Margin="1"></Button>
+            <Button Name="NextBtn" Content=">" Width="20" Background="Transparent" BorderBrush="Transparent" Margin="1" Click="NextBtn_Click"></Button>
+        </StackPanel>
+        </Viewbox>
+    </Grid>
+</Window>
